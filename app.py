@@ -14,10 +14,7 @@ class MyApp(QMainWindow, main_ui):
     def __init__(self):
         super().__init__()
         self.setupUi(self)
-        self.setFixedSize(873, 709)
-
-
-
+    
 
 
 if __name__ == "__main__" :
